@@ -30,11 +30,11 @@ Fonctionnalités à tester:
                                           - Au moins 8 caractères
                                           - au moins une majuscule et un minuscule
                                           - au moins un chiffre
+        - le mot de passe doit être chiffrer dans la base de données
                                           
  Une fois l'utilisateur créé, il pourra donc se connecter à l'application
  
- - Création de sauce:
-        - L'utilisateur peut ajouter une saucer via le formulaire en renseignant:
+ - Création de sauce: L'utilisateur peut ajouter une saucer via le formulaire en renseignant:
                   - Le nom de la sauce (name)
                   - le fabricant (manufacturer)
                   - une description
